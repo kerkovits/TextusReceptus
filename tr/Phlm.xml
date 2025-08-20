@@ -1,0 +1,398 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+  <osisText xml:lang="grc" osisIDWork="TR" osisRefWork="Bible">
+    <div type="book" osisID="Phlm">
+      <chapter osisID="Phlm.1">
+        <verse osisID="Phlm.1.1">
+          <seg type="x-paragraph">¶</seg><w lemma="3972" morph="N-NSM">ΠΑΥΛΟΣ</w>
+          <w lemma="1198" morph="N-NSM">δέσμιος</w>
+          <w lemma="5547" morph="N-GSM">Χριστοῦ</w>
+          <w lemma="2424" morph="N-GSM">Ἰησοῦ</w><seg type="x-comma">,</seg>
+          <w lemma="2532" morph="CONJ">καὶ</w>
+          <w lemma="5095" morph="N-NSM">Τιμόθεος</w>
+          <w lemma="3588" morph="T-NSM">ὁ</w>
+          <w lemma="80" morph="N-NSM">ἀδελφὸς</w><seg type="x-comma">,</seg>
+          <w lemma="5371" morph="N-DSM">Φιλήμονι</w>
+          <w lemma="3588" morph="T-DSM">τῷ</w>
+          <w lemma="27" morph="A-DSM">ἀγαπητῷ</w>
+          <w lemma="2532" morph="CONJ">καὶ</w>
+          <w lemma="4904" morph="A-DSM">συνεργῷ</w>
+          <w lemma="2257" morph="P-1GP">ἡμῶν</w><seg type="x-comma">,</seg>
+        </verse>
+        <verse osisID="Phlm.1.2">
+          <w lemma="2532" morph="CONJ">καὶ</w>
+          <w lemma="682" morph="N-DSF">Ἀπφίᾳ</w>
+          <w lemma="3588" morph="T-DSF">τῇ</w>
+          <w lemma="27" morph="A-DSF">ἀγαπητῇ</w><seg type="x-comma">,</seg>
+          <w lemma="2532" morph="CONJ">καὶ</w>
+          <w lemma="751" morph="N-DSM">Ἀρχίππῳ</w>
+          <w lemma="3588" morph="T-DSM">τῷ</w>
+          <w lemma="4961" morph="N-DSM">συστρατιώτῃ</w>
+          <w lemma="2257" morph="P-1GP">ἡμῶν</w><seg type="x-comma">,</seg>
+          <w lemma="2532" morph="CONJ">καὶ</w>
+          <w lemma="3588" morph="T-DSF">τῇ</w>
+          <w lemma="2596" morph="PREP">κατ</w><seg type="x-coronis">᾽</seg>
+          <w lemma="3624" morph="N-ASM">οἶκόν</w>
+          <w lemma="4675" morph="P-2GS">σου</w>
+          <w lemma="1577" morph="N-DSF">ἐκκλησίᾳ</w><seg type="x-semicolon">·</seg>
+        </verse>
+        <verse osisID="Phlm.1.3">
+          <w lemma="5485" morph="N-NSF">χάρις</w>
+          <w lemma="5213" morph="P-2DP">ὑμῖν</w>
+          <w lemma="2532" morph="CONJ">καὶ</w>
+          <w lemma="1515" morph="N-NSF">εἰρήνη</w>
+          <w lemma="575" morph="PREP">ἀπὸ</w>
+          <w lemma="2316" morph="N-GSM">Θεοῦ</w>
+          <w lemma="3962" morph="N-GSM">πατρὸς</w>
+          <w lemma="2257" morph="P-1GP">ἡμῶν</w><seg type="x-comma">,</seg>
+          <w lemma="2532" morph="CONJ">καὶ</w>
+          <w lemma="2962" morph="N-GSM">Κυρίου</w>
+          <w lemma="2424" morph="N-GSM">Ἰησοῦ</w>
+          <w lemma="5547" morph="N-GSM">Χριστοῦ</w><seg type="x-stop">.</seg>
+        </verse>
+        <verse osisID="Phlm.1.4">
+          <seg type="x-paragraph">¶</seg><w lemma="2168" morph="V-PAI-1S">Εὐχαριστῶ</w>
+          <w lemma="3588" morph="T-DSM">τῷ</w>
+          <w lemma="2316" morph="N-DSM">Θεῷ</w>
+          <w lemma="3450" morph="P-1GS">μου</w><seg type="x-comma">,</seg>
+          <w lemma="3842" morph="ADV">πάντοτε</w>
+          <w lemma="3417" morph="N-ASF">μνείαν</w>
+          <w lemma="4675" morph="P-2GS">σου</w>
+          <w lemma="4160" morph="V-PMP-NSM">ποιούμενος</w>
+          <w lemma="1909" morph="PREP">ἐπὶ</w>
+          <w lemma="3588" morph="T-GPF">τῶν</w>
+          <w lemma="4335" morph="N-GPF">προσευχῶν</w>
+          <w lemma="3450" morph="P-1GS">μου</w><seg type="x-comma">,</seg>
+        </verse>
+        <verse osisID="Phlm.1.5">
+          <w lemma="191" morph="V-PAP-NSM">ἀκούων</w>
+          <w lemma="4675" morph="P-2GS">σου</w>
+          <w lemma="3588" morph="T-ASF">τὴν</w>
+          <w lemma="26" morph="N-ASF">ἀγάπην</w>
+          <w lemma="2532" morph="CONJ">καὶ</w>
+          <w lemma="3588" morph="T-ASF">τὴν</w>
+          <w lemma="4102" morph="N-ASF">πίστιν</w>
+          <w lemma="3739" morph="R-ASF">ἣν</w>
+          <w lemma="2192" morph="V-PAI-2S">ἔχεις</w>
+          <w lemma="4314" morph="PREP">πρὸς</w>
+          <w lemma="3588" morph="T-ASM">τὸν</w>
+          <w lemma="2962" morph="N-ASM">Κύριον</w>
+          <w lemma="2424" morph="N-ASM">Ἰησοῦν</w>
+          <w lemma="2532" morph="CONJ">καὶ</w>
+          <w lemma="1519" morph="PREP">εἰς</w>
+          <w lemma="3956" morph="A-APM">πάντας</w>
+          <w lemma="3588" morph="T-APM">τοὺς</w>
+          <w lemma="40" morph="A-APM">ἁγίους</w><seg type="x-comma">,</seg>
+        </verse>
+        <verse osisID="Phlm.1.6">
+          <w lemma="3704" morph="ADV">ὅπως</w>
+          <w lemma="3588" morph="T-NSF">ἡ</w>
+          <w lemma="2842" morph="N-NSF">κοινωνία</w>
+          <w lemma="3588" morph="T-GSF">τῆς</w>
+          <w lemma="4102" morph="N-GSF">πίστεώς</w>
+          <w lemma="4675" morph="P-2GS">σου</w>
+          <w lemma="1756" morph="A-NSF">ἐνεργὴς</w>
+          <w lemma="1096" morph="V-2ADS-3S">γένηται</w>
+          <w lemma="1722" morph="PREP">ἐν</w>
+          <w lemma="1922" morph="N-DSF">ἐπιγνώσει</w>
+          <w lemma="3956" morph="A-GSN">παντὸς</w>
+          <w lemma="18" morph="A-GSN">ἀγαθοῦ</w>
+          <w lemma="3588" morph="T-GSN">τοῦ</w>
+          <w lemma="1722" morph="PREP">ἐν</w>
+          <w lemma="5213" morph="P-2DP">ὑμῖν</w>
+          <w lemma="1519" morph="PREP">εἰς</w>
+          <w lemma="5547" morph="N-ASM">Χριστὸν</w>
+          <w lemma="2424" morph="N-ASM">Ἰησοῦν</w><seg type="x-stop">.</seg>
+        </verse>
+        <verse osisID="Phlm.1.7">
+          <w lemma="5485" morph="N-ASF" type="x-stephanus">χάριν</w><note type="alternative"><catchWord>χάριν</catchWord><rdg type="x-scrivener"><w lemma="5479" morph="N-ASF">χαρὰν</w></rdg></note>
+          <w lemma="1063" morph="CONJ">γὰρ</w>
+          <w lemma="2192" morph="V-PAI-1P">ἔχομεν</w>
+          <w lemma="4183" morph="A-ASF">πολλὴν</w>
+          <w lemma="2532" morph="CONJ">καὶ</w>
+          <w lemma="3874" morph="N-ASF">παράκλησιν</w>
+          <w lemma="1909" morph="PREP">ἐπὶ</w>
+          <w lemma="3588" morph="T-DSF">τῇ</w>
+          <w lemma="26" morph="N-DSF">ἀγάπῃ</w>
+          <w lemma="4675" morph="P-2GS">σου</w><seg type="x-comma">,</seg>
+          <w lemma="3754" morph="CONJ">ὅτι</w>
+          <w lemma="3588" morph="T-NPN">τὰ</w>
+          <w lemma="4698" morph="N-NPN">σπλάγχνα</w>
+          <w lemma="3588" morph="T-GPM">τῶν</w>
+          <w lemma="40" morph="A-GPM">ἁγίων</w>
+          <w lemma="373" morph="V-RPI-3S">ἀναπέπαυται</w>
+          <w lemma="1223" morph="PREP">διὰ</w>
+          <w lemma="4675" morph="P-2GS">σοῦ</w><seg type="x-comma">,</seg>
+          <w lemma="80" morph="N-VSM">ἀδελφέ</w><seg type="x-stop">.</seg>
+        </verse>
+        <verse osisID="Phlm.1.8">
+          <w lemma="1352" morph="CONJ">Διὸ</w>
+          <w lemma="4183" morph="A-ASF">πολλὴν</w>
+          <w lemma="1722" morph="PREP">ἐν</w>
+          <w lemma="5547" morph="N-DSM">Χριστῷ</w>
+          <w lemma="3954" morph="N-ASF">παῤῥησίαν</w>
+          <w lemma="2192" morph="V-PAP-NSM">ἔχων</w>
+          <w lemma="2004" morph="V-PAN">ἐπιτάσσειν</w>
+          <w lemma="4671" morph="P-2DS">σοι</w>
+          <w lemma="3588" morph="T-ASN">τὸ</w>
+          <w lemma="433" morph="V-PAP-ASN">ἀνῆκον</w><seg type="x-comma">,</seg>
+        </verse>
+        <verse osisID="Phlm.1.9">
+          <w lemma="1223" morph="PREP">διὰ</w>
+          <w lemma="3588" morph="T-ASF">τὴν</w>
+          <w lemma="26" morph="N-ASF">ἀγάπην</w>
+          <w lemma="3123" morph="ADV">μᾶλλον</w>
+          <w lemma="3870" morph="V-PAI-1S">παρακαλῶ</w><seg type="x-comma">,</seg>
+          <w lemma="5108" morph="D-NSM">τοιοῦτος</w>
+          <w lemma="5607" morph="V-PXP-NSM">ὢν</w>
+          <w lemma="5613" morph="ADV">ὡς</w>
+          <w lemma="3972" morph="N-NSM">Παῦλος</w>
+          <w lemma="4246" morph="N-NSM">πρεσβύτης</w><seg type="x-comma">,</seg>
+          <w lemma="3570" morph="ADV">νυνὶ</w>
+          <w lemma="1161" morph="CONJ">δὲ</w>
+          <w lemma="2532" morph="CONJ">καὶ</w>
+          <w lemma="1198" morph="N-NSM">δέσμιος</w>
+          <w lemma="2424" morph="N-GSM">Ἰησοῦ</w>
+          <w lemma="5547" morph="N-GSM">Χριστοῦ</w><seg type="x-stop">.</seg>
+        </verse>
+        <verse osisID="Phlm.1.10">
+          <seg type="x-paragraph">¶</seg><w lemma="3870" morph="V-PAI-1S">Παρακαλῶ</w>
+          <w lemma="4571" morph="P-2AS">σε</w>
+          <w lemma="4012" morph="PREP">περὶ</w>
+          <w lemma="3588" morph="T-GSM">τοῦ</w>
+          <w lemma="1700" morph="P-1GS">ἐμοῦ</w>
+          <w lemma="5043" morph="N-GSN">τέκνου</w><seg type="x-comma">,</seg>
+          <w lemma="3739" morph="R-ASM">ὃν</w>
+          <w lemma="1080" morph="V-AAI-1S">ἐγέννησα</w>
+          <w lemma="1722" morph="PREP">ἐν</w>
+          <w lemma="3588" morph="T-DPM">τοῖς</w>
+          <w lemma="1199" morph="N-DPM">δεσμοῖς</w>
+          <w lemma="3450" morph="P-1GS">μου</w><seg type="x-comma">,</seg>
+          <w lemma="3682" morph="N-ASM">Ὀνήσιμον</w><seg type="x-comma">,</seg>
+        </verse>
+        <verse osisID="Phlm.1.11">
+          <w lemma="3588" morph="T-ASM">τὸν</w>
+          <w lemma="4218" morph="PRT">ποτέ</w>
+          <w lemma="4671" morph="P-2DS">σοι</w>
+          <w lemma="890" morph="A-ASM">ἄχρηστον</w><seg type="x-comma">,</seg>
+          <w lemma="3570" morph="ADV">νυνὶ</w>
+          <w lemma="1161" morph="CONJ">δέ</w>
+          <w lemma="4671" morph="P-2DS">σοι</w>
+          <w lemma="2532" morph="CONJ">καὶ</w>
+          <w lemma="1698" morph="P-1DS">ἐμοὶ</w>
+          <w lemma="2173" morph="A-ASM">εὔχρηστον</w><seg type="x-comma">,</seg>
+        </verse>
+        <verse osisID="Phlm.1.12">
+          <w lemma="3739" morph="R-ASM">ὃν</w>
+          <w lemma="375" morph="V-AAI-1S">ἀνέπεμψα</w><seg type="x-stop">.</seg>
+          <w lemma="4771" morph="P-2NS">Σὺ</w>
+          <w lemma="1161" morph="CONJ">δὲ</w>
+          <w lemma="846" morph="P-ASM">αὐτὸν</w><seg type="x-comma">,</seg>
+          <seg type="x-open-paren">(</seg><w lemma="5123" morph="V-PXI-3S">τουτέστιν</w>
+          <w lemma="3588" morph="T-NPN">τὰ</w>
+          <w lemma="1699" morph="S-1NPN">ἐμὰ</w>
+          <w lemma="4698" morph="N-NPN">σπλάγχνα</w><seg type="x-comma">,</seg><seg type="x-close-paren">)</seg>
+          <w lemma="4355" morph="V-2AMM-2S">προσλαβοῦ</w><seg type="x-comma">,</seg>
+        </verse>
+        <verse osisID="Phlm.1.13">
+          <w lemma="3739" morph="R-ASM">ὃν</w>
+          <w lemma="1473" morph="P-1NS">ἐγὼ</w>
+          <w lemma="1014" morph="V-INI-1S">ἐβουλόμην</w>
+          <w lemma="4314" morph="PREP">πρὸς</w>
+          <w lemma="1683" morph="F-1ASM">ἐμαυτὸν</w>
+          <w lemma="2722" morph="V-PAN">κατέχειν</w><seg type="x-comma">,</seg>
+          <w lemma="2443" morph="CONJ">ἵνα</w>
+          <w lemma="5228" morph="PREP">ὑπὲρ</w>
+          <w lemma="4675" morph="P-2GS">σοῦ</w>
+          <w lemma="1247" morph="V-PAS-3S">διακονῇ</w>
+          <w lemma="3427" morph="P-1DS">μοι</w>
+          <w lemma="1722" morph="PREP">ἐν</w>
+          <w lemma="3588" morph="T-DPM">τοῖς</w>
+          <w lemma="1199" morph="N-DPM">δεσμοῖς</w>
+          <w lemma="3588" morph="T-GSN">τοῦ</w>
+          <w lemma="2098" morph="N-GSN">εὐαγγελίου</w><seg type="x-semicolon">·</seg>
+        </verse>
+        <verse osisID="Phlm.1.14">
+          <w lemma="5565" morph="ADV">χωρὶς</w>
+          <w lemma="1161" morph="CONJ">δὲ</w>
+          <w lemma="3588" morph="T-GSF">τῆς</w>
+          <w lemma="4674" morph="S-2GSF">σῆς</w>
+          <w lemma="1106" morph="N-GSF">γνώμης</w>
+          <w lemma="3762" morph="A-ASN">οὐδὲν</w>
+          <w lemma="2309" morph="V-AAI-1S">ἠθέλησα</w>
+          <w lemma="4160" morph="V-AAN">ποιῆσαι</w><seg type="x-comma">,</seg>
+          <w lemma="2443" morph="CONJ">ἵνα</w>
+          <w lemma="3361" morph="PRT-N">μὴ</w>
+          <w lemma="5613" morph="ADV">ὡς</w>
+          <w lemma="2596" morph="PREP">κατὰ</w>
+          <w lemma="318" morph="N-ASF">ἀνάγκην</w>
+          <w lemma="3588" morph="T-NSN">τὸ</w>
+          <w lemma="18" morph="A-NSN">ἀγαθόν</w>
+          <w lemma="4675" morph="P-2GS">σου</w>
+          <w lemma="5600" morph="V-PXS-3S">ᾖ</w><seg type="x-comma">,</seg>
+          <w lemma="235" morph="CONJ">ἀλλὰ</w>
+          <w lemma="2596" morph="PREP">κατὰ</w>
+          <w lemma="1595" morph="A-ASN">ἑκούσιον</w><seg type="x-stop">.</seg>
+        </verse>
+        <verse osisID="Phlm.1.15">
+          <w lemma="5029" morph="ADV">Τάχα</w>
+          <w lemma="1063" morph="CONJ">γὰρ</w>
+          <w lemma="1223" morph="PREP">διὰ</w>
+          <w lemma="5124" morph="D-ASN">τοῦτο</w>
+          <w lemma="5563" morph="V-API-3S">ἐχωρίσθη</w>
+          <w lemma="4314" morph="PREP">πρὸς</w>
+          <w lemma="5610" morph="N-ASF">ὥραν</w><seg type="x-comma">,</seg>
+          <w lemma="2443" morph="CONJ">ἵνα</w>
+          <w lemma="166" morph="A-ASM">αἰώνιον</w>
+          <w lemma="846" morph="P-ASM">αὐτὸν</w>
+          <w lemma="568" morph="V-PAS-2S">ἀπέχῃς</w><seg type="x-comma">,</seg>
+        </verse>
+        <verse osisID="Phlm.1.16">
+          <w lemma="3765" morph="ADV">οὐκέτι</w>
+          <w lemma="5613" morph="ADV">ὡς</w>
+          <w lemma="1401" morph="N-ASM">δοῦλον</w><seg type="x-comma">,</seg>
+          <w lemma="235" morph="CONJ">ἀλλ</w><seg type="x-coronis">᾽</seg>
+          <w lemma="5228" morph="PREP">ὑπὲρ</w>
+          <w lemma="1401" morph="N-ASM">δοῦλον</w><seg type="x-comma">,</seg>
+          <w lemma="80" morph="N-ASM">ἀδελφὸν</w>
+          <w lemma="27" morph="A-ASM">ἀγαπητὸν</w><seg type="x-comma">,</seg>
+          <w lemma="3122" morph="ADV">μάλιστα</w>
+          <w lemma="1698" morph="P-1DS">ἐμοὶ</w><seg type="x-comma">,</seg>
+          <w lemma="4214" morph="Q-DSN">πόσῳ</w>
+          <w lemma="1161" morph="CONJ">δὲ</w>
+          <w lemma="3123" morph="ADV">μᾶλλόν</w>
+          <w lemma="4671" morph="P-2DS">σοι</w><seg type="x-comma">,</seg>
+          <w lemma="2532" morph="CONJ">καὶ</w>
+          <w lemma="1722" morph="PREP">ἐν</w>
+          <w lemma="4561" morph="N-DSF">σαρκὶ</w>
+          <w lemma="2532" morph="CONJ">καὶ</w>
+          <w lemma="1722" morph="PREP">ἐν</w>
+          <w lemma="2962" morph="N-DSM">Κυρίῳ</w><seg type="x-question">;</seg>
+        </verse>
+        <verse osisID="Phlm.1.17">
+          <w lemma="1487" morph="COND">Εἰ</w>
+          <w lemma="3767" morph="CONJ">οὖν</w>
+          <w lemma="1691" morph="P-1AS">ἐμὲ</w>
+          <w lemma="2192" morph="V-PAI-2S">ἔχεις</w>
+          <w lemma="2844" morph="A-ASM">κοινωνὸν</w><seg type="x-comma">,</seg>
+          <w lemma="4355" morph="V-2AMM-2S">προσλαβοῦ</w>
+          <w lemma="846" morph="P-ASM">αὐτὸν</w>
+          <w lemma="5613" morph="ADV">ὡς</w>
+          <w lemma="1691" morph="P-1AS">ἐμέ</w><seg type="x-stop">.</seg>
+        </verse>
+        <verse osisID="Phlm.1.18">
+          <w lemma="1487" morph="COND">Εἰ</w>
+          <w lemma="1161" morph="CONJ">δέ</w>
+          <w lemma="5100" morph="X-ASN">τι</w>
+          <w lemma="91" morph="V-AAI-3S">ἠδίκησέ</w>
+          <w lemma="4571" morph="P-2AS">σε</w>
+          <w lemma="2228" morph="PRT">ἢ</w>
+          <w lemma="3784" morph="V-PAI-3S">ὀφείλει</w><seg type="x-comma">,</seg>
+          <w lemma="5124" morph="D-ASN">τοῦτο</w>
+          <w lemma="1698" morph="P-1DS">ἐμοὶ</w>
+          <w lemma="1677" morph="V-PAM-2S">ἐλλόγει</w><seg type="x-stop">.</seg>
+        </verse>
+        <verse osisID="Phlm.1.19">
+          <w lemma="1473" morph="P-1NS">ἐγὼ</w>
+          <w lemma="3972" morph="N-NSM">Παῦλος</w>
+          <w lemma="1125" morph="V-AAI-1S">ἔγραψα</w>
+          <w lemma="3588" morph="T-DSF">τῇ</w>
+          <w lemma="1699" morph="S-1DSF">ἐμῇ</w>
+          <w lemma="5495" morph="N-DSF">χειρὶ</w><seg type="x-comma">,</seg>
+          <w lemma="1473" morph="P-1NS">Ἐγὼ</w>
+          <w lemma="661" morph="V-FAI-1S">ἀποτίσω</w><seg type="x-stop">.</seg>
+          <w lemma="2443" morph="CONJ">ἵνα</w>
+          <w lemma="3361" morph="PRT-N">μὴ</w>
+          <w lemma="3004" morph="V-PAS-1S">λέγω</w>
+          <w lemma="4671" morph="P-2DS">σοι</w><seg type="x-comma">,</seg>
+          <w lemma="3754" morph="CONJ">ὅτι</w>
+          <w lemma="2532" morph="CONJ">καὶ</w>
+          <w lemma="4572" morph="F-2ASM">σεαυτόν</w>
+          <w lemma="3427" morph="P-1DS">μοι</w>
+          <w lemma="4359" morph="V-PAI-2S">προσοφείλεις</w><seg type="x-stop">.</seg>
+        </verse>
+        <verse osisID="Phlm.1.20">
+          <w lemma="3483" morph="PRT">Ναὶ</w><seg type="x-comma">,</seg>
+          <w lemma="80" morph="N-VSM">ἀδελφέ</w><seg type="x-stop">.</seg>
+          <w lemma="1473" morph="P-1NS">ἐγώ</w>
+          <w lemma="4675" morph="P-2GS">σου</w>
+          <w lemma="3685" morph="V-2ADO-1S">ὀναίμην</w>
+          <w lemma="1722" morph="PREP">ἐν</w>
+          <w lemma="2962" morph="N-DSM">Κυρίῳ</w><seg type="x-stop">.</seg>
+          <w lemma="373" morph="V-AAM-2S">ἀνάπαυσόν</w>
+          <w lemma="3450" morph="P-1GS">μου</w>
+          <w lemma="3588" morph="T-APN">τὰ</w>
+          <w lemma="4698" morph="N-APN">σπλάγχνα</w>
+          <w lemma="1722" morph="PREP">ἐν</w>
+          <w lemma="2962" morph="N-DSM">Κυρίῳ</w><seg type="x-stop">.</seg>
+        </verse>
+        <verse osisID="Phlm.1.21">
+          <w lemma="3982" morph="V-2RAP-NSM">πεποιθὼς</w>
+          <w lemma="3588" morph="T-DSF">τῇ</w>
+          <w lemma="5218" morph="N-DSF">ὑπακοῇ</w>
+          <w lemma="4675" morph="P-2GS">σου</w>
+          <w lemma="1125" morph="V-AAI-1S">ἔγραψά</w>
+          <w lemma="4671" morph="P-2DS">σοι</w><seg type="x-comma">,</seg>
+          <w lemma="1492" morph="V-RAP-NSM">εἰδὼς</w>
+          <w lemma="3754" morph="CONJ">ὅτι</w>
+          <w lemma="2532" morph="CONJ">καὶ</w>
+          <w lemma="5228" morph="PREP">ὑπὲρ</w>
+          <w lemma="3739" morph="R-ASN">ὃ</w>
+          <w lemma="3004" morph="V-PAI-1S">λέγω</w><seg type="x-comma">,</seg>
+          <w lemma="4160" morph="V-FAI-2S">ποιήσεις</w><seg type="x-stop">.</seg>
+        </verse>
+        <verse osisID="Phlm.1.22">
+          <w lemma="260" morph="ADV">ἅμα</w>
+          <w lemma="1161" morph="CONJ">δὲ</w>
+          <w lemma="2532" morph="CONJ">καὶ</w>
+          <w lemma="2090" morph="V-PAM-2S">ἑτοίμαζέ</w>
+          <w lemma="3427" morph="P-1DS">μοι</w>
+          <w lemma="3578" morph="N-ASF">ξενίαν</w><seg type="x-semicolon">·</seg>
+          <w lemma="1679" morph="V-PAI-1S">ἐλπίζω</w>
+          <w lemma="1063" morph="CONJ">γὰρ</w>
+          <w lemma="3754" morph="CONJ">ὅτι</w>
+          <w lemma="1223" morph="PREP">διὰ</w>
+          <w lemma="3588" morph="T-GPF">τῶν</w>
+          <w lemma="4335" morph="N-GPF">προσευχῶν</w>
+          <w lemma="5216" morph="P-2GP">ὑμῶν</w>
+          <w lemma="5483" morph="V-FPI-1S">χαρισθήσομαι</w>
+          <w lemma="5213" morph="P-2DP">ὑμῖν</w><seg type="x-stop">.</seg>
+        </verse>
+        <verse osisID="Phlm.1.23">
+          <w lemma="782" morph="V-PNI-3P">Ἀσπάζονταί</w>
+          <w lemma="4571" morph="P-2AS">σε</w>
+          <w lemma="1889" morph="N-NSM">Ἐπαφρᾶς</w>
+          <w lemma="3588" morph="T-NSM">ὁ</w>
+          <w lemma="4869" morph="A-NSM">συναιχμάλωτός</w>
+          <w lemma="3450" morph="P-1GS">μου</w>
+          <w lemma="1722" morph="PREP">ἐν</w>
+          <w lemma="5547" morph="N-DSM">Χριστῷ</w>
+          <w lemma="2424" morph="N-DSM">Ἰησοῦ</w><seg type="x-comma">,</seg>
+        </verse>
+        <verse osisID="Phlm.1.24">
+          <w lemma="3138" morph="N-NSM">Μάρκος</w><seg type="x-comma">,</seg>
+          <w lemma="708" morph="N-NSM">Ἀρίσταρχος</w><seg type="x-comma">,</seg>
+          <w lemma="1214" morph="N-NSM">Δημᾶς</w><seg type="x-comma">,</seg>
+          <w lemma="3065" morph="N-NSM">Λουκᾶς</w><seg type="x-comma">,</seg>
+          <w lemma="3588" morph="T-NPM">οἱ</w>
+          <w lemma="4904" morph="A-NPM">συνεργοί</w>
+          <w lemma="3450" morph="P-1GS">μου</w><seg type="x-stop">.</seg>
+        </verse>
+        <verse osisID="Phlm.1.25">
+          <w lemma="3588" morph="T-NSF">Ἡ</w>
+          <w lemma="5485" morph="N-NSF">χάρις</w>
+          <w lemma="3588" morph="T-GSM">τοῦ</w>
+          <w lemma="2962" morph="N-GSM">Κυρίου</w>
+          <w lemma="2257" morph="P-1GP">ἡμῶν</w>
+          <w lemma="2424" morph="N-GSM">Ἰησοῦ</w>
+          <w lemma="5547" morph="N-GSM">Χριστοῦ</w>
+          <w lemma="3326" morph="PREP">μετὰ</w>
+          <w lemma="3588" morph="T-GSN">τοῦ</w>
+          <w lemma="4151" morph="N-GSN">πνεύματος</w>
+          <w lemma="5216" morph="P-2GP">ὑμῶν</w><seg type="x-stop">.</seg>
+          <w lemma="281" morph="HEB">Ἀμήν</w><seg type="x-stop">.</seg><note type="background"><rdg type="x-stephanus"><w lemma="4314" morph="PREP">Πρὸς</w> <w lemma="5371" morph="N-ASM">Φιλήμονα</w> <w lemma="1125" morph="V-2API-3S">ἐγράφη</w> <w lemma="575" morph="PREP">ἀπὸ</w> <w lemma="4516" morph="N-GSF">Ῥώμης</w> <w lemma="1223" morph="PREP">διὰ</w> <w lemma="3682" morph="N-GSM">Ὀνησίμου</w> <w lemma="3610" morph="N-GSM">οἰκέτου</w><seg type="x-stop">.</seg></rdg></note>
+        </verse>
+      </chapter>
+    </div>
+  </osisText>
+</osis>
